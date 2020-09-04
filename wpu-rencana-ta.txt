@@ -4,3 +4,5 @@
 
 - menulis buku idaman
 - membuat taman rumah yang baru
+- membuat bunga
+" mawar"
